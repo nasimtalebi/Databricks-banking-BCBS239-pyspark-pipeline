@@ -1,5 +1,5 @@
-### Databricks-banking-Pyspark-pipeline-Reconciliation، Plausibility و Regression Test
-# Databricks Banking PySpark Pipeline (BCBS 239 & Data Quality)
+## Databricks-banking-Pyspark-pipeline-Reconciliation، Plausibility و Regression
+### Databricks Banking PySpark Pipeline (BCBS 239 & Data Quality)
 
 An end-to-end banking data modeling, behavioral window analytics, and automated Data Quality (DQ) pipeline built with **PySpark** and **Delta Lake** in **Databricks**, designed with **BCBS 239** risk data aggregation and governance principles in mind.
 
